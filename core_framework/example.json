@@ -1,0 +1,12 @@
+[
+{
+    "site": "Postman echo",
+    "url": "https://postman-echo.com/post",
+    "data": "{\"args\":{},\"data\":{\"param1\":\"value1\",\"param2\":\"value2\"},\"files\":{},\"form\":{},\"headers\":{\"host\":\"postman-echo.com\",\"content-length\":\"40\",\"accept-encoding\":\"gzip, br\",\"accept-language\":\"en-US,en;q=0.9\",\"x-forwarded-proto\":\"https\",\"accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8;application/json\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36\",\"content-type\":\"applicatio"
+},
+{
+    "site": "Quotes",
+    "url": "https://quotes.toscrape.com/js/",
+    "data": "<!DOCTYPE html><html lang=\"en\"><head>\n\t<meta charset=\"UTF-8\">\n\t<title>Quotes to Scrape</title>\n    <link rel=\"stylesheet\" href=\"/static/bootstrap.min.css\">\n    <link rel=\"stylesheet\" href=\"/static/main.css\">\n    \n    \n</head>\n<body>\n    <div class=\"container\">\n        <div class=\"row header-box\">\n            <div class=\"col-md-8\">\n                <h1>\n                    <a href=\"/\" style=\"text-decoration: none\">Quotes to Scrape</a>\n                </h1>\n            </div>\n            <div class"
+}
+]
