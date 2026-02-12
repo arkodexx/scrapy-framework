@@ -21,3 +21,5 @@ Core-Framework empowers developers to focus on business logic while providing a 
 git clone https://github.com/arkodexx/scrapy-framework.git
 cd core-framework
 pip install requirements.txt
+# Change all you need in config.json and selecots and logic in main file crawler.py
+scrapy crawl crawler -o data.json (or .csv if you want)
